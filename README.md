@@ -92,6 +92,11 @@ Built with React & Spring Boot
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaishnaviPopuri&theme=github_dark" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/VaishnaviPopuri" alt="Vaishnavi's GitHub chart" />
+</p>
+
+
 ---
 
 > ✨ “Code with purpose, design with empathy, and build with vision.”  
