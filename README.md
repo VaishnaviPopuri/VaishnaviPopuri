@@ -87,6 +87,10 @@ Built with React & Spring Boot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPopuri&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VaishnaviPopuri&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaishnaviPopuri&theme=github_dark" width="48%" />
+</p>
 
 ---
 
