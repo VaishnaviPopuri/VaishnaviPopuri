@@ -17,60 +17,58 @@
 
 ### 🌟 About Me
 
-🎓 I'm currently pursuing a **B.Tech in Computer Science** at K L University.  
-💻 I'm passionate about **building scalable applications**, solving real-world problems, and exploring **cloud computing**.  
-🧠 Always learning, always coding.
+🎓 B.Tech CSE @ K L University  
+💡 Passionate about full-stack development & cloud engineering  
+🌱 Always learning and exploring new tech  
+💬 Ask me about Java, Spring Boot, REST APIs, or MySQL
 
 ---
 
-### 💼 Featured Projects
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Projects
 
 #### 📚 Online Course Management System
-> Built using Java, Spring Boot, JPA, JSP, and MySQL with a dynamic frontend using JSF, HTML, and CSS.  
-> Efficient course tracking with seamless UI and robust backend management.
+Spring Boot + MySQL + JSF + HTML/CSS  
+📌 Dynamic UI and secure course data handling
 
-#### 🌐 PortfolioHub
-> A full-stack portfolio showcase platform. Developed with Spring Boot REST APIs, MySQL, HTML, CSS, JS.  
-> Scalable microservices architecture and a responsive user interface.
+#### 💼 PortfolioHub
+RESTful full-stack app to manage personal portfolios  
+📌 Microservices architecture, responsive frontend
 
 #### 🎬 Movie Recommendation System
-> React + Spring Boot app for personalized movie suggestions.  
-> Backend powered by MySQL and JPA; frontend focused on user experience and design clarity.
+Built with React & Spring Boot  
+📌 Personalized recommendations with a sleek UI
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🏆 Achievements
 
-**Languages:**  
-`Java` `C` `Python`
-
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `React`
-
-**Backend & Frameworks:**  
-`Spring Boot` `JPA` `JDBC` `REST APIs`
-
-**Database:**  
-`MySQL` `MongoDB`
-
-**Tools:**  
-`Git` `Eclipse` `Figma` `Agile Methodologies`
+- 🧭 Led a **200-member team** in a Smart Village sustainability mission
+- 🛠️ Addressed river restoration for **Mission Clean Krishna Godavari**
+- 🎯 Enhanced ecosystem awareness via tech-driven cleanup strategies
 
 ---
 
 ### 📜 Certifications
 
-- ✅ Red Hat Certified Enterprise Application Developer  
-- ☁️ AWS Certified Cloud Practitioner  
-- 🔧 ServiceNow Certified System Administrator  
-- 🗣️ Linguaskill General – Cambridge
-
----
-
-### 🏅 Achievements
-
-- Led a **200-member team** in *Mission Clean Krishna Godavari Canals*, a sustainability project focused on restoring the Krishna River.
-- Contributed to environmental awareness and water conservation through smart village initiatives.
+- ✅ Red Hat Certified Enterprise App Developer
+- ☁️ AWS Cloud Practitioner
+- 🧾 ServiceNow CSA
+- 📘 Linguaskill General – Cambridge
 
 ---
 
@@ -84,11 +82,17 @@
 
 ---
 
-### 🤝 Let's Connect!
+## 📊 GitHub Stats & Activity
 
-I'm actively looking to contribute to open-source, collaborate on full-stack projects, and connect with fellow developers.  
-Feel free to reach out — **I'm just an email or message away!**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviPopuri&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaishnaviPopuri&theme=react&hide_border=true" width="48%" />
+</p>
 
-> *"Code is not just syntax, it's a solution to a problem."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPopuri&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
 
 ---
+
+> ✨ “Code with purpose, design with empathy, and build with vision.”  
